@@ -1,12 +1,8 @@
 ---
-title: "About Zixi Song"
+title: "About"
 ---
 
 About this site
-
-```{r}
-1 + 1
-```
 
 \
 Zixi Song is a budding mathematician and statistician who marries her love for numbers with a zest for life. Currently enriching her mind at the University of Toronto, Zixi has carved a niche for herself as a standout student and an insightful intern at Xi'an High-Tech Financial Holdings. Her academic journey is sprinkled with accolades, including a notable recognition at the Waterloo Math Contest, but it's her practical approach to real-world problems that sets her apart.
